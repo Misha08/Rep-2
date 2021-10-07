@@ -1,7 +1,5 @@
 # Hiii!
 
-![Бог](https://user-images.githubusercontent.com/59179698/136338185-0e524871-041a-4e4d-8e62-12783ca534e6.jpg)
-
 My thank's for Her because, if she wasn't, we never go to learn in SLSC NCFU 🙏
 That's new repository
 ``` html
