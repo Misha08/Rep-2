@@ -7,3 +7,7 @@ That's new repository
     </body>
 </html>
 ```
+
+``` python
+  print('I try to write in Python')
+```
