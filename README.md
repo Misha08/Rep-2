@@ -7,8 +7,9 @@ That's new repository
     </body>
 </html>
 ```
+Some wolf-facts 
 
-:wolf:
+:wolf: Wolf won't say the sh**, wolf will show it :point_up:
 
 ``` python
   print('I try to write in Python')
