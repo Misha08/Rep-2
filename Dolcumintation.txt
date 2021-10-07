@@ -1,0 +1,6 @@
+That's repository just training thing.
+
+Firstly programm execute "Hiii!!!" - that's just message (Heading 1)
+Secondly you can admite the example programm on Python
+Next only jocks
+And last, you can see the main programm on the python, which calculate mode, median, and Middle Arifmetical count.
