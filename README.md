@@ -1,6 +1,6 @@
 # Hiii!
 
-[Бог](https://user-images.githubusercontent.com/59179698/136337642-377d5189-7999-413d-820d-e23f43fdbe7b.jpg)
+![Бог](https://user-images.githubusercontent.com/59179698/136337642-377d5189-7999-413d-820d-e23f43fdbe7b.jpg)
 
 My thank's for Her because, if she wasn't, we never go to learn in SLSC NCFU 🙏
 That's new repository
