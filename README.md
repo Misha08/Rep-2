@@ -8,6 +8,8 @@ That's new repository
 </html>
 ```
 
+:wolf:
+
 ``` python
   print('I try to write in Python')
 ```
